@@ -1,0 +1,24 @@
+{
+  "name": "Arabic-to-Roman-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiarac20/Arabic-to-Roman-numbers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiarac20/Arabic-to-Roman-numbers/issues"
+  },
+  "homepage": "https://github.com/chiarac20/Arabic-to-Roman-numbers#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
